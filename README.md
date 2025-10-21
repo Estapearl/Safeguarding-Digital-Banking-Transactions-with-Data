@@ -27,4 +27,27 @@ The SQL scripts used for data preparation, profiling, and fraud detection are av
 - [Data Cleaning & Exploration](EDA_and_Profiling.sql)
 - [Account Profiling & Feature Engineering](Account_Profile_Build.sql)
 - [Fraud Detection Rules & Alert Logging](Fraud_Alert_Log_System.sql)
-- [Account Profiling & Feature Engineering](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/Account_Profile_Build.sql)
+
+## Executive Summary
+
+## Fraud Intelligence System Design
+As part of building a practical fraud detection system, two key analytical layers were developed in SQL **Account Risk Profiling and Fraud Alert Monitoring.**
+These layers formed the foundation for understanding customer behavior and automatically flagging suspicious transactions before they could escalate into losses.
+
+### Account Risk Profiling
+
+The Account_Profile table was created to summarize customer behavior at the account level. Rather than viewing transactions individually, this layer aggregates each customer’s history; total transactions, average amounts, fraud frequency and activity across countries, devices, and beneficiaries. This provides the **Compliance and Fraud Investigation units** with a clearer picture of customer patterns and potential anomalies.
+
+By profiling accounts this way, the team can easily identify customers with unusual or high-risk activity, such as excessive cross-border usage or recurring fraudulent transactions. It also supports risk segmentation, helping management prioritize monitoring resources where they are most needed.
+
+### Fraud Alert Monitoring System
+
+The Fraud_Alert_Log serves as an automated surveillance layer that records transactions showing suspicious or high-risk characteristics.
+This view and table work together to flag unusual behaviors — for example, large transactions far above normal averages, new beneficiary accounts, or activity linked to accounts with elevated fraud rates.
+
+These alerts are automatically logged and time-stamped, creating a continuous feedback loop for the Risk and Compliance teams to review, investigate, and take timely action.
+The result is a system that supports proactive fraud monitoring, reduces manual workload, and ensures that no high-risk pattern goes unnoticed.
+
+### Why This Matters 
+In banking or payment operations, time is everything when it comes to fraud. By engineering these SQL-based systems, a scalable analytical foundation that could support real-time fraud monitoring, customer risk scoring, and automated alerting was created, all using data-driven logic built directly from the organization’s transaction system.
+
