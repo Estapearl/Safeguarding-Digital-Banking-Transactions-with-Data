@@ -86,7 +86,8 @@ From a business standpoint, this dashboard allows Compliance and Risk teams to:
 
 - Strengthen monitoring rules around transaction frequency and size for early detection.
 
-Dashboard View:
+
+### Dashboard View:
 [🔗 Click here to view the Account Risk Insight Dashboard](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Account%20Risk%20Insight.png)
 
 #### Dashboard 3: Fraud Alert Monitoring
@@ -104,6 +105,8 @@ From a business perspective, this dashboard enables teams to:
 - Track which alert rules generate the most cases, and
 
 - Quickly prioritize high-risk alerts for investigation before financial losses occur.
-🔗 Click here to view the Fraud Alert Monitoring Dashboard
+  
+  ### Dashboard View
+[🔗 Click here to view the Fraud Alert Monitoring Dashboard](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Fraud%20Alert%20Monitoring.png)
 
 
