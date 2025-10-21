@@ -67,6 +67,39 @@ Fraud was concentrated in **mobile (1,782) and web (925) transactions,** highlig
 Although 95% of flagged transactions were completed, only a small proportion were stopped or reversed, suggesting that most fraudulent activity slips through before detection.
 
 Across countries, **Germany, France, and the Netherlands** recorded the highest fraud volumes, while monthly trends remained consistent throughout the year reinforcing that fraud risk is continuous and not seasonal.
+
 <img src="https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Executive%20Dashboard.png" width="800"> 
+
+#### Dashboard 2: Account Risk Insight
+
+This dashboard explores how individual customer accounts behave and how those behaviors relate to fraud risk. Using features engineered in SQL such as each account’s total transactions, average transaction size, and historical fraud rate. This dashboard highlights where the highest risks lie across EuroTrust’s customer base.
+
+Out of all analyzed accounts, **2,043 were classified as high-risk,** showing patterns of unusually frequent or large transactions. The average transaction amount was **€464,** and the overall account-level fraud rate stood at **4.74%.**
+
+A deeper look revealed that while most customers (around 80%) maintained a low-risk profile, a small fraction showed extreme behaviors for example, **accounts EUACCT14631 and EUACCT15552** had a 100% fraud rate across five transactions each, a strong indicator of potential misuse or compromised accounts.
+
+From a business standpoint, this dashboard allows Compliance and Risk teams to:
+
+- Identify the small group of customers driving most of the fraud exposure,
+
+- Prioritize investigations using data-backed risk categories (low, moderate, high, critical), and
+
+- Strengthen monitoring rules around transaction frequency and size for early detection.
+
+#### Dashboard 3: Fraud Alert Monitoring
+
+This dashboard focuses on real-time fraud detection and alert tracking, summarizing how many transactions were flagged by the system and which risk categories triggered those alerts. It provides an operational view for the Risk and Compliance teams to monitor live threats and review alert trends.
+
+Across all transactions analyzed, the system generated **36,000 alerts,** of which **12,000** were classified as high-risk. The most recent alert was logged on **December 31, 2024, at 11:35:56 PM,** showing that the fraud monitoring process remains active through year-end.
+
+In terms of distribution, mobile transactions accounted for nearly half **(49.5%)** of all alerts, followed by web channels (25.5%), confirming that digital channels remain the primary targets for fraud attempts. The majority of alerts **(62.6%)** were triggered by new beneficiary transactions, followed by high-risk amount alerts **(34.3%)** and unusually large transactions **(3.1%)** indicating that fraudsters often exploit beneficiary changes more than transaction size alone.
+
+From a business perspective, this dashboard enables teams to:
+
+- Monitor fraud activity in near real time,
+
+- Track which alert rules generate the most cases, and
+
+- Quickly prioritize high-risk alerts for investigation before financial losses occur.
 
 
