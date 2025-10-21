@@ -24,6 +24,6 @@ Using SQL for data modeling and Power BI for visualization, transaction data was
 - **Operational Monitoring and Risk Reporting:** Power BI dashboards were built to visualize fraud risk distribution by country, channel, and account category. These dashboards provided real-time visibility for compliance teams to monitor alerts and identify emerging threats.
 
 The SQL scripts used for data preparation, profiling, and fraud detection are available in the project repository:
-- **[Data Cleaning & Exploration]**(EDA_and_Profiling.sql)
-- **[Account Profiling & Feature Engineering]**(Account_Profile_Build.sql)
-- **[Fraud Detection Rules & Alert Logging]**(Fraud_Alert_Log_System.sql)
+- [Data Cleaning & Exploration](EDA_and_Profiling.sql)
+- [Account Profiling & Feature Engineering](Account_Profile_Build.sql)
+- [Fraud Detection Rules & Alert Logging](Fraud_Alert_Log_System.sql)
