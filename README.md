@@ -27,3 +27,4 @@ The SQL scripts used for data preparation, profiling, and fraud detection are av
 - [Data Cleaning & Exploration](EDA_and_Profiling.sql)
 - [Account Profiling & Feature Engineering](Account_Profile_Build.sql)
 - [Fraud Detection Rules & Alert Logging](Fraud_Alert_Log_System.sql)
+- [Account Profiling & Feature Engineering](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/Account_Profile_Build.sql)
