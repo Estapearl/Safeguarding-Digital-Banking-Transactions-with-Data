@@ -59,3 +59,14 @@ I also found that a few customer accounts had repeated high fraud activity, whic
 Finally, the new fraud alert system proved that automated checks can save time and make it easier to spot and respond to suspicious transactions quickly.
 ### Insights Deep Dive
 
+#### Dashboard 1: Executive Fraud Overview
+
+The Executive Dashboard provides a snapshot of EuroTrust’s overall fraud exposure across digital and physical channels. Out of **80,000** total transactions, **3,649** were flagged representing a **4.6%** fraud rate.
+
+Fraud was concentrated in **mobile (1,782) and web (925) transactions,** highlighting increased vulnerability in online channels.
+Although 95% of flagged transactions were completed, only a small proportion were stopped or reversed, suggesting that most fraudulent activity slips through before detection.
+
+Across countries, **Germany, France, and the Netherlands** recorded the highest fraud volumes, while monthly trends remained consistent throughout the year reinforcing that fraud risk is continuous and not seasonal.
+<img src="https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Executive%20Dashboard.png" width="800"> 
+
+
