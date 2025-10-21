@@ -51,3 +51,11 @@ The result is a system that supports proactive fraud monitoring, reduces manual 
 ### Why This Matters 
 In banking or payment operations, time is everything when it comes to fraud. By engineering these SQL-based systems, a scalable analytical foundation that could support real-time fraud monitoring, customer risk scoring, and automated alerting was created, all using data-driven logic built directly from the organization’s transaction system.
 
+## Overview of Findings
+
+The analysis showed that most fraud happened through digital channels, especially on mobile and web platforms. This means the bank needs stronger checks and security in these areas.
+
+I also found that a few customer accounts had repeated high fraud activity, which points to patterns that the compliance team should watch closely.
+Finally, the new fraud alert system proved that automated checks can save time and make it easier to spot and respond to suspicious transactions quickly.
+### Insights Deep Dive
+
