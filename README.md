@@ -86,8 +86,6 @@ From a business standpoint, this dashboard allows Compliance and Risk teams to:
 
 - Strengthen monitoring rules around transaction frequency and size for early detection.
 
-
-### Dashboard View:
 [🔗 Click here to view the Account Risk Insight Dashboard](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Account%20Risk%20Insight.png)
 
 #### Dashboard 3: Fraud Alert Monitoring
@@ -106,7 +104,20 @@ From a business perspective, this dashboard enables teams to:
 
 - Quickly prioritize high-risk alerts for investigation before financial losses occur.
   
-  ### Dashboard View
 [🔗 Click here to view the Fraud Alert Monitoring Dashboard](https://github.com/Estapearl/Safeguarding-Digital-Banking-Transactions-with-Data/blob/main/EuroTrust%20Fraud%20Alert%20Monitoring.png)
+
+## Recommendations
+
+Based on the insights from the analysis and dashboards, several actions are recommended to help strengthen fraud prevention and response:
+
+- Enhance digital channel monitoring: Since most fraud activities occur through mobile and web channels, the organization should invest in stronger real-time monitoring and anomaly detection tools for these platforms.
+
+- Prioritize high-risk accounts: Accounts identified with repeated or high-value fraudulent activity should be placed under closer supervision, with temporary transaction limits or additional authentication layers.
+
+- Improve alert handling efficiency: The Fraud Alert Monitoring system should be optimized so that high-risk alerts are automatically flagged to the Compliance and Risk teams for quicker review and resolution.
+
+- Strengthen collaboration across teams: Continuous communication between Fraud Analytics, Risk Management, and Compliance units will ensure faster responses and better prevention strategies.
+
+- Regularly review fraud patterns: Since fraud attempts occur consistently across months, periodic data
 
 
