@@ -86,6 +86,9 @@ From a business standpoint, this dashboard allows Compliance and Risk teams to:
 
 - Strengthen monitoring rules around transaction frequency and size for early detection.
 
+Dashboard View:
+🔗 Click here to view the Account Risk Insight Dashboard
+
 #### Dashboard 3: Fraud Alert Monitoring
 
 This dashboard focuses on real-time fraud detection and alert tracking, summarizing how many transactions were flagged by the system and which risk categories triggered those alerts. It provides an operational view for the Risk and Compliance teams to monitor live threats and review alert trends.
@@ -101,5 +104,6 @@ From a business perspective, this dashboard enables teams to:
 - Track which alert rules generate the most cases, and
 
 - Quickly prioritize high-risk alerts for investigation before financial losses occur.
+🔗 Click here to view the Fraud Alert Monitoring Dashboard
 
 
